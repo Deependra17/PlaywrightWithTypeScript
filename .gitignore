@@ -1,0 +1,14 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Project exclude paths
+/playwright.config.d.ts
+/playwright.config.d.ts.map
+/playwright.config.js
+/playwright.config.js.map
